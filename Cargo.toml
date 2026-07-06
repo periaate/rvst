@@ -1,11 +1,11 @@
 [package]
-name = "rs"
+name = "rvst"
 description = "An extended standard library for rust."
 version = "0.1.0"
 edition = "2024"
 license = "MPL-2.0"
 
-repository = "https://github.com/periaate/takion"
-homepage = "https://github.com/periaate/takion"
+repository = "https://github.com/periaate/rs"
+homepage = "https://github.com/periaate/rs"
 
 [dependencies]
